@@ -274,7 +274,7 @@
 <br>
 
 <h3><b>🔗 노션 링크</b></h3>
-https://southern-flame-986.notion.site/Eyes-On-Us-cbe9155612d3442e9a8f5284cd0032a6?pvs=4
+[https://southern-flame-986.notion.site/Eyes-On-Us-cbe9155612d3442e9a8f5284cd0032a6?pvs=4](https://southern-flame-986.notion.site/Eyes-On-Us-cbe9155612d3442e9a8f5284cd0032a6)
 
 <br>
 <br>
