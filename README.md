@@ -28,6 +28,12 @@
 <br>
 <br>
 
+## 🖼️ DB 설계
+<img src='https://github.com/user-attachments/assets/3d7062b6-71ec-4e1a-ae1e-d139a3e69efe' width=800px height=500px>
+<br>
+<br>
+<br>
+
 ##  ⚙️ 개발 환경
 
 <h3>Front & Back</h3>
@@ -283,36 +289,84 @@
 
 ## 🖥️ 화면 구성
 
-1. 홈페이지 <br />
-![image](https://github.com/user-attachments/assets/dd57a313-19be-4140-a893-716bcb00b961)
+1. 로그인 페이지 <br />
+<img src='https://github.com/user-attachments/assets/2fe3105f-9e0e-4bd7-81de-02f96100d369' width=800px height=500px>
+
+<br>
+<br>
+<br>
+
+2. 홈 페이지 <br />
+<img src='https://github.com/user-attachments/assets/dd57a313-19be-4140-a893-716bcb00b961' width=800px height=500px>
+
+<br>
+<br>
+<br>
+
+3. 팀 룸 페이지 <br />
+<img src='https://github.com/user-attachments/assets/102a60c1-3cb3-4845-9042-8b97b3768f95' width=800px height=500px>
+
+<br>
+<br>
+<br>
+
+4. 결재 목록 <br />
+<img src='https://github.com/user-attachments/assets/14d75e23-89b4-41fd-85a5-468c94de8a74' width=800px height=500px>
 
 <br>
 
-- 출.퇴근 월별로 조회 <br />
-![image](https://github.com/user-attachments/assets/98f6ead2-c31d-4047-b4d7-7289a05448df)
+5. 결재 파일 열람 <br />
+<img src='https://github.com/user-attachments/assets/b45e0112-9666-4076-9feb-bbdded830633' width=800px height=500px>
+
+<br>
+<br>
+<br>
+
+6. 출.퇴근 월별로 조회 <br />
+<img src='https://github.com/user-attachments/assets/98f6ead2-c31d-4047-b4d7-7289a05448df' width=800px height=500px>
+
+<br>
+<br>
+<br>
+
+7. KPI 목록 <br />
+<img src='https://github.com/user-attachments/assets/891526ee-64f9-430c-ad77-f49241dab046' width=800px height=500px>
 
 <br>
 
-- KPI 목록 <br />
-![image](https://github.com/user-attachments/assets/891526ee-64f9-430c-ad77-f49241dab046)
+8. KPI 상세조회 <br />
+<img src='https://github.com/user-attachments/assets/be7c5d01-5ad9-4df3-8d8c-540e263b8f03' width=800px height=500px>
 
 <br>
-
-- KPI 상세조회 <br />
-![image](https://github.com/user-attachments/assets/be7c5d01-5ad9-4df3-8d8c-540e263b8f03)
-
+<br>
 <br>
 
-- 평가 목록 <br />
+9. 평가 목록 <br />
 (오른쪽은 남은 평가 목록) <br />
 로그인한 사원에 따라 팀장이면 팀원, 동료평가가 뜨고 <br />
 팀원이면 팀장, 동료평가가 뜨게 함 <br />
-![image](https://github.com/user-attachments/assets/98e65954-b56e-4bd9-a52a-f1490d3cbdd1)
+<img src='https://github.com/user-attachments/assets/98e65954-b56e-4bd9-a52a-f1490d3cbdd1' width=800px height=500px>
 
 <br>
+<br>
+<br>
 
-- 평가한 상세 목록 <br />
-![image](https://github.com/user-attachments/assets/fd244696-02b8-4ccc-bc7e-9a052c3e9b81)
+10. 평가한 상세 목록 <br />
+<img src='https://github.com/user-attachments/assets/fd244696-02b8-4ccc-bc7e-9a052c3e9b81' width=800px height=500px>
+
+<br>
+<br>
+<br>
+
+11. 사원 관리 <br />
+<img src='https://github.com/user-attachments/assets/412c4dd3-6568-43cd-a231-30d0498c0150' width=800px height=500px>
+
+<br>
+<br>
+<br>
+
+13. 일정 관리 <br />
+<img src='https://github.com/user-attachments/assets/89fc81ac-f689-43c9-a436-ee0ca998f482' width=800px height=500px>
 
 <br>
 <br>
